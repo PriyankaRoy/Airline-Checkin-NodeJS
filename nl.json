@@ -1,0 +1,15 @@
+{
+"language": "Selecteer Taal",
+"header":"Check in",
+"details" :"Vul alstublieft uw boekingscode of PNR in. U kunt inchecken vanaf 30 uur tot 1 uur voor vertrek.",
+"pnrLabel":"PNR",
+"pnr" :"PNR or Boeking ID",
+"pnrError": "Incorrect PNR of Boekings ID",
+"firstnameLabel" :"Voer alsjeblieft voornaam in",
+"lastnameLabel": "Voer alstublieft achternaam in",
+"firstname":"Voornaam",
+"lastname":"achternaam",
+"firstnameError":"Ongeldige voornaam",
+"lastnameError":"Ongeldige achternaam",
+"submit" :"voorleggen"
+}

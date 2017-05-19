@@ -1,0 +1,15 @@
+{
+"language": "Select Language",
+"header":"Check in",
+"details" :"Please enter your booking code or PNR. You can check in from 30 hours until 1 hour before departure.",
+"pnrLabel":"PNR",
+"pnr" :"PNR or Booking ID",
+"pnrError": "Incorrect PNR or Booking ID",
+"firstnameLabel" :"Please enter FirstName",
+"lastnameLabel": "Please enter LastName",
+"firstname":"FirstName",
+"lastname":"LastName",
+"firstnameError":"Invalid Firstname",
+"lastnameError":"Invalid Lastname",
+"submit" :"Submit"
+}
